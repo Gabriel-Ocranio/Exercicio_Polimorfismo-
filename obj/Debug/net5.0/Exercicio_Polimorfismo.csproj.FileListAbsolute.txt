@@ -1,0 +1,16 @@
+C:\temp\Exercicio_Polimorfismo\bin\Debug\net5.0\Exercicio_Polimorfismo.exe
+C:\temp\Exercicio_Polimorfismo\bin\Debug\net5.0\Exercicio_Polimorfismo.deps.json
+C:\temp\Exercicio_Polimorfismo\bin\Debug\net5.0\Exercicio_Polimorfismo.runtimeconfig.json
+C:\temp\Exercicio_Polimorfismo\bin\Debug\net5.0\Exercicio_Polimorfismo.runtimeconfig.dev.json
+C:\temp\Exercicio_Polimorfismo\bin\Debug\net5.0\Exercicio_Polimorfismo.dll
+C:\temp\Exercicio_Polimorfismo\bin\Debug\net5.0\ref\Exercicio_Polimorfismo.dll
+C:\temp\Exercicio_Polimorfismo\bin\Debug\net5.0\Exercicio_Polimorfismo.pdb
+C:\temp\Exercicio_Polimorfismo\obj\Debug\net5.0\Exercicio_Polimorfismo.csproj.AssemblyReference.cache
+C:\temp\Exercicio_Polimorfismo\obj\Debug\net5.0\Exercicio_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Exercicio_Polimorfismo\obj\Debug\net5.0\Exercicio_Polimorfismo.AssemblyInfoInputs.cache
+C:\temp\Exercicio_Polimorfismo\obj\Debug\net5.0\Exercicio_Polimorfismo.AssemblyInfo.cs
+C:\temp\Exercicio_Polimorfismo\obj\Debug\net5.0\Exercicio_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\temp\Exercicio_Polimorfismo\obj\Debug\net5.0\Exercicio_Polimorfismo.dll
+C:\temp\Exercicio_Polimorfismo\obj\Debug\net5.0\ref\Exercicio_Polimorfismo.dll
+C:\temp\Exercicio_Polimorfismo\obj\Debug\net5.0\Exercicio_Polimorfismo.pdb
+C:\temp\Exercicio_Polimorfismo\obj\Debug\net5.0\Exercicio_Polimorfismo.genruntimeconfig.cache
